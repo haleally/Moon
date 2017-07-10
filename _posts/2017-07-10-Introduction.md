@@ -10,4 +10,4 @@ Here's a picture of me doing the **science**:
 ! [The **science**]({{haleally.github.io}}/assets/img/Lumberton3.jpg)
 
 And here is a link about me doing the **science**:
-[A RAPID Response to Hurricane Matthew] <http://endeavors.unc.edu/a-rapid-response-to-hurricane-matthew/>
+[A RAPID Response to Hurricane Matthew](http://endeavors.unc.edu/a-rapid-response-to-hurricane-matthew/)
