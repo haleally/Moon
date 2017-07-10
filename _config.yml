@@ -1,11 +1,11 @@
 # Site
 title:              INLS 161 Test Site
 bio:                'A practice website for INLS 161'
-description:        "Haley Moser"
+description:        "Haley Moser, github: haleally"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/Frozen Camp.jpg'
+background:         'assets/img/forest.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://haleally.github.io
