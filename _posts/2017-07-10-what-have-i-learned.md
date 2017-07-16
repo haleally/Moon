@@ -5,9 +5,9 @@ date: 2017-07-10
 cetgories: jekyll update
 ---
 
-So, what have I learned so far in INLS 161?
+#So, what have I learned so far in INLS 161?
 
-It all kind of, to me, sums down to "wow, the internet is way more complicated than I thought."
+##It all kind of, to me, sums down to "wow, the internet is way more complicated than I thought."
 
 And thank you to the internet gods before me that figured all this stuff out, and thank you to the guys who sit and youtube how to do literally everything you'd ever need to know so I can save myself from asking the class dumb questions.
 
