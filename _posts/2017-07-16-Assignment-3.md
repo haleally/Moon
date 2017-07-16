@@ -19,10 +19,10 @@ For funsies, I also included the command echo "Converted MD to FILE TPYE" for th
 
 <h2>*Results*</h2>
 - - -
-[Source File]()
-[Output HTML]
-[Output DOCX]
-[Output ODT]
-[Output PDF]
-[Output RTF]
-[Script](https://github.com/haleally/haleally-convert-documents/blob/master/haleally-convert-docs.sh)
+[Source File](https://github.com/haleally/haleally-convert-documents/blob/master/resume.md/)
+[Output HTML](https://github.com/haleally/haleally-convert-documents/blob/master/resume.html/)
+[Output DOCX](https://github.com/haleally/haleally-convert-documents/blob/master/resume.docx/)
+[Output ODT](https://github.com/haleally/haleally-convert-documents/blob/master/resume.odt/)
+[Output PDF](https://github.com/haleally/haleally-convert-documents/blob/master/resume.pdf/)
+[Output RTF](https://github.com/haleally/haleally-convert-documents/blob/master/resume.rtf/)
+[Script](https://github.com/haleally/haleally-convert-documents/blob/master/haleally-convert-docs.sh/)
