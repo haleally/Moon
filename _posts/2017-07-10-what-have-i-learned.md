@@ -1,8 +1,8 @@
 ---
 layout: post
-title "What Have I Learned?!?!"
+title: "What Have I learned?"
 date: 2017-07-10
-categories: jekyll update
+cetgories: jekyll update
 ---
 
 So, what have I learned so far in INLS 161?
