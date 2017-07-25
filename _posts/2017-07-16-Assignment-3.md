@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction and About"
+title: "Assignment 3"
 date: 2017-07-09
 cetgories: jekyll update
 ---
