@@ -10,7 +10,7 @@ cetgories: jekyll update
 
 Assignment 5 focused on creating a presentation using the Reveal.js format. This skill is valueable because reveal.js is more accesible and malleable than Powerpoint, and you can therefore show your presentation more easily to others as well as make it more exactly what you want in terms of style and how it will look
 
-My presentation: [Haley's final presentation](LINK)
+My presentation: [Haley's final presentation](https://github.com/haleally/task-5-presentation)
 
 My reveal.js focuses on my summer internship at the Southeast Regional Climate Center where I am an undergraduate research intern working on a project focused on determining if high heat index values are causing women to deliver babies preterm, before the 36 week gestation mark. 
 
